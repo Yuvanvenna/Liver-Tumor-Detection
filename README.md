@@ -2,7 +2,7 @@
 
 ## 🚀 Overview  
 This project focuses on detecting **liver tumors** using a **hybrid quantum-classical approach**.  
-It utilizes the **3D-IRCADb1 dataset**, which contains annotated **liver CT scans**, for model training.  
+It utilizes the **LiTS17 dataset**, which contains annotated **liver 3d CT scans**, for model training.  
 
 The system performs **liver and tumor segmentation** using deep learning models like **U-Net**,  
 combined with **quantum-inspired algorithms** for enhanced image processing.  
@@ -14,7 +14,7 @@ techniques to improve accuracy.
 - ✅ **Liver and Tumor Segmentation** using **U-Net**  
 - ✅ **Quantum-Inspired Image Processing** for enhanced accuracy  
 - ✅ **Malignant vs. Benign Tumor Classification**  
-- ✅ **3D-IRCADb1 Dataset** for training and evaluation  
+- ✅ **LiTS17 Dataset** for training and evaluation  
 - ✅ **Aiding Radiologists in Early Diagnosis**  
 
 ## 📌 Work in Progress 🚧  
@@ -22,13 +22,13 @@ This project is currently under development and will be released soon!
 Stay tuned for updates.  
 
 ## 📂 Dataset  
-- **3D-IRCADb1** (Liver CT scans with annotations)  
+- **LiTS17** (Liver CT scans with annotations)  
 
 ## ⚡ Technologies Used  
 - **Deep Learning:** U-Net  
 - **Quantum Computing:** Quantum-Inspired Segmentation  
-- **Dataset:** 3D-IRCADb1  
-- **Programming:** Python, TensorFlow  
+- **Dataset:** LiTS17   
+- **Programming:** Python, TensorFlow ,FL ,QVC ,CNN , Nibabel ,Qiskit , TensorFlow, PyTorch , OpenCV, SciPy, NumPy, Pandas, Scikit-learn, Matplotlib
 
 ## 📅 Coming Soon!  
 We are actively working on this project. Follow for updates! 🚀  
