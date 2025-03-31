@@ -1,4 +1,4 @@
-# **Hybrid Quantum-Classical Liver Tumor Detection**  
+# **Advanced Liver Tumor detection using Quantum Variation Classifier and CNN with FL**  
 
 ## 🚀 Overview  
 This project focuses on detecting **liver tumors** using a **hybrid quantum-classical approach**.  
