@@ -30,5 +30,5 @@ Stay tuned for updates.
 - **Dataset:** 3D-IRCADb1  
 - **Programming:** Python, TensorFlow  
 
-## 📅 Coming Soon!  
+## 📅 Coming Soon!! :)  
 We are actively working on this project. Follow for updates! 🚀  
