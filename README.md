@@ -28,7 +28,7 @@ Stay tuned for updates.
 - **Deep Learning:** U-Net  
 - **Quantum Computing:** Quantum-Inspired Segmentation  
 - **Dataset:** LiTS17   
-- **Programming:** Python, TensorFlow ,FL ,QVC ,CNN , Nibabel ,Qiskit , TensorFlow, PyTorch , OpenCV, SciPy, NumPy, Pandas, Scikit-learn, Matplotlib
+- **Programming:** Python,  TensorFlow ,FL ,QVC ,CNN , Nibabel ,Qiskit , TensorFlow, PyTorch , OpenCV, SciPy, NumPy, Pandas, Scikit-learn, Matplotlib
 
 ## 📅 Coming Soon!  
 We are actively working on this project. Follow for updates! 🚀  
