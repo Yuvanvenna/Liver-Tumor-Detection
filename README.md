@@ -9,9 +9,9 @@ combined with **quantum-inspired algorithms** for enhanced image processing.
 
 The model classifies **liver tumors as malignant or benign**, leveraging **quantum-based image segmentation**  
 techniques to improve accuracy.  
-
+ 
 ## 🏥 Key Features  
-- ✅ **Liver and Tumor Segmentation** using **U-Net**  
+- ✅ **Liver and Tumor Segmentation** using **U-Net**   
 - ✅ **Quantum-Inspired Image Processing** for enhanced accuracy  
 - ✅ **Malignant vs. Benign Tumor Classification**  
 - ✅ **LiTS17 Dataset** for training and evaluation  
