@@ -30,5 +30,3 @@ Stay tuned for updates.
 - **Dataset:** LiTS17   
 - **Programming:** Python,  TensorFlow ,FL ,QVC ,CNN , Nibabel ,Qiskit , TensorFlow, PyTorch , OpenCV, SciPy, NumPy, Pandas, Scikit-learn, Matplotlib
 
-## 📅 Coming Soon!  
-We are actively working on this project. Follow for updates! 🚀  
